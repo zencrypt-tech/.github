@@ -4,7 +4,7 @@
 
 Zencrypt Tech is a collection of encryption and privacy-focused tools built across CLI, desktop, web, and Web3 environments.
 
-The Zencrypt ecosystem is organized as a product family rather than a single monolithic codebase. Each product is separated by platform and purpose, while still sharing the same broader direction: [...]
+The Zencrypt ecosystem is organized as a product family rather than a single monolithic codebase. Each product is separated by platform and purpose, while still sharing the same broader direction: making encryption tooling easier to access, easier to use, and easier to keep organized over time.
 
 ---
 
@@ -33,131 +33,6 @@ This organization is structured so each major product has its own repository, re
 | `zencrypt-webapp` | Web application |
 | `zencrypt-dapp` | Solana-connected dApp |
 | `.github` | Organization profile, shared docs, and defaults |
-
----
-
-## GitHub Stats
-
-> Org accounts don’t work with some “user stats” cards. These cards use the maintainer account **ryanshatch** for streak/languages/summary, and we pin org repos below.
-
-<details>
-  <summary><b>Show GitHub stats</b></summary>
-  <br>
-
-  <div align="center">
-    <!-- Streak (maintainer user) -->
-    <a href="https://github.com/ryanshatch">
-      <img
-        src="https://github-streak-stats.herokuapp.com/?user=ryanshatch&theme=blueberry&hide_border=true&card_width=684"
-        alt="GitHub Streak (ryanshatch)"
-      />
-    </a>
-
-    <br /><br />
-
-    <!-- Profile summary cards (maintainer user) -->
-    <a href="https://github.com/ryanshatch">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanshatch&theme=blueberry"
-        alt="Profile Details (ryanshatch)"
-      />
-    </a>
-
-    <br /><br />
-
-    <table>
-      <tr>
-        <td>
-          <a href="https://github.com/ryanshatch">
-            <img
-              width="336"
-              src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanshatch&theme=blueberry&utcOffset=-4"
-              alt="Productive Time (ryanshatch)"
-            />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/ryanshatch">
-            <img
-              width="336"
-              src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanshatch&theme=blueberry"
-              alt="Stats (ryanshatch)"
-            />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/ryanshatch">
-            <img
-              width="336"
-              src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanshatch&theme=blueberry"
-              alt="Repos per Language (ryanshatch)"
-            />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/ryanshatch">
-            <img
-              width="336"
-              src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanshatch&theme=blueberry"
-              alt="Most Commit Language (ryanshatch)"
-            />
-          </a>
-        </td>
-      </tr>
-    </table>
-
-    <br />
-
-    <!-- Top languages (maintainer user) -->
-    <a href="https://github.com/ryanshatch">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanshatch&layout=compact&langs_count=10&theme=blueberry&hide_border=true&card_width=684"
-        alt="Most Used Languages (ryanshatch)"
-      />
-    </a>
-
-    <br /><br />
-
-    <!-- Repo pin cards (org repos) -->
-    <a href="https://github.com/zencrypt-tech/zencrypt-dapp">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=zencrypt-tech&repo=zencrypt-dapp&theme=blueberry&hide_border=true"
-        alt="zencrypt-dapp"
-      />
-    </a>
-    <a href="https://github.com/zencrypt-tech/zencrypt-cli-python">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=zencrypt-tech&repo=zencrypt-cli-python&theme=blueberry&hide_border=true"
-        alt="zencrypt-cli-python"
-      />
-    </a>
-
-  </div>
-</details>
-
-<hr />
-
-<div align="center">
-  <img
-    alt="Zencrypt Tech"
-    src="https://avatars.githubusercontent.com/u/278228629?s=400&u=608825c6e2e7473acc6350e42cfd5262614dbb26&v=4"
-    style="width: 50%;"
-  />
-</div>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/zencrypt-tech">
-    <img
-      src="https://komarev.com/ghpvc/?username=zencrypt-tech&color=blue&style=flat"
-      alt="Profile Views"
-      style="width: 13%;"
-    />
-  </a>
-</p>
 
 ---
 
@@ -260,7 +135,7 @@ This keeps Zencrypt easier to navigate and easier to maintain as the platform gr
 
 Zencrypt Tech is under active development.
 
-Some products are more mature than others, but the organization structure is designed to keep each version separated, documented, and easier to maintain over time. The focus is on preserving clea[...]
+Some products are more mature than others, but the organization structure is designed to keep each version separated, documented, and easier to maintain over time. The focus is on preserving clear product boundaries while continuing to improve the shared Zencrypt ecosystem.
 
 ---
 
@@ -288,3 +163,50 @@ That separation is part of the design:
 - each repo can keep its own release cycle
 - each codebase can be improved without cluttering the rest
 - the broader Zencrypt identity stays consistent across all platforms
+
+<hr>
+
+<details>
+  <summary align="center">
+    <h2 style="color: white; display: inline;">Zencrypt-Tech Featured Releases</h2>
+  </summary>
+  <br>
+
+  <div align="center">
+    <!-- Org-wide "stats" cards frequently do not work because they require a user. Thus, For orgs Ill need to add repo-based cards (pin cards) for them to render properly. -->
+    <!-- <h3>Featured Releases</h3> -->
+    <a href="https://github.com/zencrypt-tech/zencrypt-dapp">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=zencrypt-tech&repo=zencrypt-dapp&theme=blueberry&hide_border=true"
+        alt="zencrypt-dapp"
+      />
+    </a>
+    <a href="https://github.com/zencrypt-tech/zencrypt-cli-python">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=zencrypt-tech&repo=zencrypt-cli-python&theme=blueberry&hide_border=true"
+        alt="zencrypt-cli-python"
+      />
+    </a>
+    <br /><br />
+    <p align="center">
+  <a href="https://github.com/zencrypt-tech">
+    <img
+      src="https://komarev.com/ghpvc/?username=zencrypt-tech&color=blue&style=flat"
+      alt="Profile Views"
+      style="width: 10%;"
+    />
+  </a>
+</p>
+    <!-- Planning to add more pinned repos here using the same pattern -->
+  </div>
+</details>
+<hr />
+<div align="center">
+  <img
+    alt="Zencrypt Tech"
+    src="https://avatars.githubusercontent.com/u/278228629?s=400&u=608825c6e2e7473acc6350e42cfd5262614dbb26&v=4"
+  />
+</div>
+<!-- <br /> -->
+
+<hr>
