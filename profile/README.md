@@ -187,16 +187,17 @@ That separation is part of the design:
         alt="zencrypt-cli-python"
       />
     </a>
-    <br /><br />
+    <br />
+    <br />
     <p align="center">
-  <a href="https://github.com/zencrypt-tech">
+    <a href="https://github.com/zencrypt-tech">
     <img
       src="https://komarev.com/ghpvc/?username=zencrypt-tech&color=blue&style=flat"
-      alt="Profile Views"
+      alt="Organization View Count"
       style="width: 10%;"
     />
-  </a>
-</p>
+  </p>
+    </a>
     <!-- Planning to add more pinned repos here using the same pattern -->
   </div>
 </details>
