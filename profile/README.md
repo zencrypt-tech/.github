@@ -6,8 +6,12 @@ Zencrypt Tech is a collection of encryption and privacy-focused tools built acro
 
 The Zencrypt ecosystem is organized as a product family rather than a single monolithic codebase. Each product is separated by platform and purpose, while still sharing the same broader direction: making encryption tooling easier to access, easier to use, and easier to keep organized over time.
 
-#### I am currently working on several vulnerabilities within the web application and testing patches before pushing anymore changes.
-Please kindly stay patient with me during this process. Delivery date should be within the week.
+#### ~~I am currently working on several vulnerabilities within the web application and testing patches before pushing anymore changes.~~
+- Until GitHub Packages exploits become more stable, I won’t be adding any more packages or releases.
+
+I will still update and maintain the current repositories and may push stable products and their repositories, but I will not contribute toward packages or touch areas where GitHub is already deep in the mud with exploits.
+Please kindly stay patient with me during this process. Delivery dates should resume midway towards the end of May.
+> Nonetheless, please note that I'm not planning on pushing anything or working on any projects during the weekend of my birthday.
 
 ---
 
