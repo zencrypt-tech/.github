@@ -21,7 +21,7 @@ Please kindly stay patient with me during this process. Delivery dates should re
 |---|---|---|---|
 | **Zencrypt CLI (Python)** | CLI | Python-based command-line encryption toolkit for local workflows and direct source-based usage. |✅|
 | **Zencrypt CLI (Java)** | CLI | Java-based Zencrypt CLI packaged for portable and cross-platform use. |  🚫 |
-| **Zencrypt GUI** | Desktop App | Desktop interface for users who want Zencrypt functionality without relying on the terminal. |🚫|
+| **Zencrypt GUI** | Desktop App | Desktop interface for users who want Zencrypt functionality without relying on the terminal. |✅|
 | **Zencrypt Webapp** | Web App | Browser-accessible Zencrypt platform focused on practical encryption workflows, authentication, and key handling. |🚫|
 | **Zencrypt dApp** | Web3 dApp | Solana-connected application focused on wallet authentication, gated access, and Web3-oriented identity and permissions. |✅|
 
