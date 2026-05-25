@@ -182,18 +182,18 @@ That separation is part of the design:
   <div align="center">
     <!-- Org-wide "stats" cards frequently do not work because they require a user. Thus, For orgs Ill need to add repo-based cards (pin cards) for them to render properly. -->
     <!-- <h3>Featured Releases</h3> -->
-    <a href="https://github.com/zencrypt-tech/zencrypt-dapp">
+    <a href="https://github.com/orgs/zencrypt-tech/repositories">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=zencrypt-tech&repo=zencrypt-dapp&theme=blueberry&hide_border=true"
-        alt="zencrypt-dapp"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=ryanshatch&theme=blueberry&hide_border=true"
+        alt="Repos"
       />
     </a>
-    <a href="https://github.com/zencrypt-tech/zencrypt-cli-python">
+    <!-- <a href="https://github.com/zencrypt-tech/zencrypt-cli-python">
       <img
         src="https://github-readme-stats.vercel.app/api/pin/?username=zencrypt-tech&repo=zencrypt-cli-python&theme=blueberry&hide_border=true"
         alt="zencrypt-cli-python"
       />
-    </a>
+    </a> -->
     <br />
     <br />
     <p align="center">
