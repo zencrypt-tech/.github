@@ -22,7 +22,7 @@ Please kindly stay patient with me during this process. Delivery dates should re
 | **Zencrypt CLI (Python)** | CLI | Python-based command-line encryption toolkit for local workflows and direct source-based usage. | ✅ |
 | **Zencrypt CLI (Java)** | CLI | Java-based Zencrypt CLI packaged for portable and cross-platform use. | ✅ |
 | **Zencrypt GUI** | Desktop App | Desktop interface for users who want Zencrypt functionality without relying on the terminal. | ✅ |
-| **Zencrypt Webapp** | Web App | Browser-accessible Zencrypt platform focused on practical encryption workflows, authentication, and key handling. | 🚫 |
+| **Zencrypt Webapp** | Web App | Browser-accessible Zencrypt platform focused on practical encryption workflows, authentication, and key handling. | 🚫Private🚫 |
 | **Zencrypt dApp** | Web3 dApp | Solana-connected application focused on wallet authentication, gated access, and Web3-oriented identity and permissions. | ✅ |
 
 ---
@@ -37,7 +37,7 @@ This organization is structured so each major product has its own repository, re
 | `zencrypt-cli-python` | Python CLI source |
 | `zencrypt-cli-java` | Java CLI source |
 | `zencrypt-gui` | Desktop GUI application |
-| `zencrypt-webapp` | Web application |
+| `zencrypt-webapp` | Web application (Currently Closed Source) |
 | `zencrypt-dapp` | Solana-connected dApp |
 | `.github` | Organization profile, shared docs, and defaults |
 
@@ -49,7 +49,7 @@ If you are new to Zencrypt Tech:
 
 - Start with **Zencrypt GUI** if you want the easiest desktop experience.
 - Start with **Zencrypt CLI (Python)** if you want the most direct source-based workflow.
-- Start with **Zencrypt Webapp** if you want browser-based access.
+<!-- - Start with **Zencrypt Webapp** if you want browser-based access. -->
 - Start with **Zencrypt dApp** if you want wallet-based authentication and Web3-oriented access control.
 
 ---
